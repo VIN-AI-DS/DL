@@ -1,3 +1,0 @@
-Streamlit
-ngrok authentication
-GPU necessity like T4 in-case of large number of epochs for training
