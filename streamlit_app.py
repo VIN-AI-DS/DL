@@ -11,7 +11,7 @@ from tensorflow.keras.optimizers import Adam
 import streamlit as st
 
 # Load the dataset
-file_path = '/content/drive/MyDrive/Occupancy_Estimation.csv'  # Adjust this if your file path is different
+file_path = 'Occupancy_Estimation.csv'  # Adjust this if your file path is different
 df = pd.read_csv(file_path)
 
 # Preprocess the data (dropping Date and Time columns)
